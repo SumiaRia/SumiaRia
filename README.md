@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumia Akter Ria</h1>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumiaria&label=Profile%20views&color=0e75b6&style=flat" alt="sumiaria" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumiaria" alt="sumiaria" /></a> </p>
+<img align="right" alt="Coding" width="500" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumiaria&label=Profile%20views&color=0e75b6&style=flat" alt="sumiaria" /></p>
 
 - 🌱 I’m currently learning **Mobile Automation**
 
